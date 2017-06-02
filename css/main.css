@@ -1,0 +1,80 @@
+/**全局样式*/
+
+body {
+	font-size: 1.6em;
+	background: #FFFFFF;
+}
+
+p {
+	text-indent: 35px;
+}
+
+a {
+	color: #000000;
+}
+
+
+/*通用class*/
+
+.backg-black {
+	background-color: #000000;
+}
+
+.text-white {
+	color: #FFFFFF;
+}
+
+.none-padding-img img {
+	padding: 0px;
+}
+
+.border-bottom {
+	border-bottom: 1px solid #000000;
+}
+
+.margin-bottom-15 {
+	margin-bottom: 15px;
+}
+
+.text-gray {
+	color: #e9e9e9;
+}
+.margin-bottom-30{
+	margin-bottom: 30px;
+}
+
+/**Custom样式*/
+
+.news-title {
+	height: 20%;
+	margin-top: 2%;
+	border-bottom: 1px solid #000000;
+}
+
+.news-title:hover {
+	background: #E5E5E5;
+}
+
+.news-title img {
+	height: 130%;
+}
+
+.news-title .col-xs-12 {
+	height: 100%;
+	padding-top: 3%;
+}
+
+.news-title .col-xs-3 {
+	height: 50%;
+}
+
+.news-content {
+	margin-bottom: 45px;
+	padding-bottom: 40px;
+}
+.import-news a{
+	color: #337ab7;
+}
+.import-news .col-xs-12{
+	margin: 30px auto;
+}
